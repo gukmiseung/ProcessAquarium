@@ -1,0 +1,5 @@
+/build/
+/aquarium
+*.o
+*.d
+core
